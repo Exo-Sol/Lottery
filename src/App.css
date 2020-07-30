@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.buttons {
+  color: black;
+  margin: 2em;
+  padding: 0.5em;
+  background-color: aliceblue;
+  border-radius: 8px;
+  text-decoration: none;
+  outline: none;
+}
+
+#comb {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 2em;
+}
